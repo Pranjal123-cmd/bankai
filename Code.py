@@ -1,6 +1,5 @@
 print("hello word")
 
-def text():
-    print("this is a text function")
+def about():
+    print("heelllo from git ")
 
-text()
